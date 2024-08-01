@@ -16,3 +16,19 @@ body{
     background-repeat: no-repeat;
 
 }
+
+.titulo{
+
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.fond{
+    height: 300px;
+    width: 300px;
+    background-image: url("fond.jpg");
+    background-repeat: no-repeat;
+}
